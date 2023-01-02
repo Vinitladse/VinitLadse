@@ -5,10 +5,10 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
+- **Well versed with major ML algorithms: Supervised, Unsupervised, NLP etc.**
 - 🌱 I’m currently learning **Python, SQL, PowerBI and Data Science**
 
-- 💬 Ask me about **SQL, Python, PowerBI and Machine Learning**
+- 💬 Ask me about **SQL, Excel, Python, PowerBI and Machine Learning**
 
 
 
@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitladse&show_icons=true&locale=en&layout=compact" alt="vinitladse" /></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vinitladse&show_icons=true&locale=en" alt="vinitladse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinitladse&show_icons=true&locale=en" alt="vinitladse" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitladse&" alt="vinitladse" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinitladse&" alt="vinitladse" /></p>
