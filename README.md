@@ -35,10 +35,8 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitladse&show_icons=true&locale=en&layout=compact" alt="vinitladse" /></p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinitladse&show_icons=true&locale=en" alt="vinitladse" /></p>
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitladse&show_icons=true&locale=en&layout=compact" alt="vinitladse" /></p>
