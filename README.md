@@ -7,7 +7,7 @@
 
 - 💗 Well versed with major ML algorithms: Supervised, Unsupervised, NLP etc.
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Gen AI**
 
 - 😊 You can reach me out on: **ladsevinit7@gmail.com**
 
